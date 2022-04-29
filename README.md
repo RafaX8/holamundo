@@ -1,2 +1,5 @@
 # holamundo
 Descripción corta
+
+## La Celestina 
+es el nombre con el que se ha popularizado la Tragicomedia de **Calisto y Melibea**, atribuida a Fernando de Rojas. Su composición se remonta a los últimos años del siglo XV, durante el reinado de los Reyes Católicos en España y su extraordinario éxito editorial comenzó en el siglo XVI y continuó, con altibajos, hasta su prohibición en 1792. Por su argumento amoroso, su finalidad didáctica, la abundancia de citas de autoridad, la elección de sus personajes, su forma dialogada y su más que probable vinculación a un entorno universitario, se ha considerado a La Celestina un ejemplo sui generis de comedia humanística, aunque hay quien prefiere considerarla como un híbrido entre novela y drama. Su influencia en ambos géneros es muy notable, hasta el punto de que es posible hablar del género celestinesco en el que se incluyen tanto obras desarrolladas directamente a partir de su trama, sus personajes o sus temas, como ambientes o personajes celestinescos en comedias y novelas que, en principio, nada tienen que ver con La Celestina.
